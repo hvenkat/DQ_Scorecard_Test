@@ -1,7 +1,6 @@
 - dashboard: data_quality_scorecard
   title: Data Quality Scorecard
   layout: newspaper
-
   elements:
   - title: Data Quality Score KPI
     name: Data Quality Score KPI
